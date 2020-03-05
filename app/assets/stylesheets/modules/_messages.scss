@@ -61,15 +61,14 @@
     .group {
       color: white;
       text-decoration: none;
-      margin-bottom: 40px;
-
+      
       &__group-name {
-        margin-bottom: 2.5px;
+        margin-bottom: 5px;
         font-size: 15px;
       }
 
       &__latest-message {
-        margin-top: 2.5px;
+        margin-bottom: 40px;
         font-size: 11px;
       }
     }
